@@ -1,0 +1,13 @@
+usd_to_npr = 152
+usd1 = 5
+usd2 = 50
+usd3 = 500
+usd4 = 1000
+npr1 = usd1 * usd_to_npr
+npr2 = usd2 * usd_to_npr
+npr3 = usd3 * usd_to_npr
+npr4 = usd4 * usd_to_npr
+print("$5 in Nepali Rupees =", npr1)
+print("$50 in Nepali Rupees =", npr2)
+print("$500 in Nepali Rupees =", npr3)
+print("$1000 in Nepali Rupees =", npr4)
